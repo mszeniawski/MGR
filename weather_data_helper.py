@@ -151,7 +151,6 @@ class WeatherDataParser:
             return row
         
 
-
 #Test     
 
 #w_h = WeatherApiHelper()
@@ -162,7 +161,3 @@ class WeatherDataParser:
 #print(json.dumps(weather_data, indent=2))
 #w_p = WeatherDataParser()
 #row = w_p.get_weather_data_frame(content)
-
-                
-        
-    
